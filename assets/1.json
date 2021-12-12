@@ -1,0 +1,19 @@
+{
+    "name": "FIRST NFT EVA",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "B2w531ABD9EXu2rdzMMhJDFAaHPsyJiQdLghFV4hy3Zn",
+          "share": 100
+        }
+      ]
+    }
+  }

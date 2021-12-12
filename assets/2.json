@@ -1,0 +1,19 @@
+{
+    "name": "THIRD NFT EVAAA",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "B2w531ABD9EXu2rdzMMhJDFAaHPsyJiQdLghFV4hy3Zn",
+          "share": 100
+        }
+      ]
+    }
+  }
